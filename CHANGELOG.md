@@ -13,3 +13,6 @@
 # v0.3.0
 * Modify docker workflow to build from releases insead of pushes to main
     - Also tags the image properly
+
+# v0.4.0
+* Add github pages deployment workflow
