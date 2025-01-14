@@ -43,3 +43,8 @@ jobs:
           asset_path: ./html.zip
           asset_name: html.zip
           asset_content_type: application/zip
+      - name: Dispatch docker build
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          event-type: docker-build
+          client-payload: '{ "tag": "${{ steps.create_release.outputs.version }}" }'

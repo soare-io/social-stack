@@ -9,3 +9,7 @@
 # v0.2.0
 * Add build and release github action
 * Add other social platforms
+
+# v0.3.0
+* Modify docker workflow to build from releases insead of pushes to main
+    - Also tags the image properly
