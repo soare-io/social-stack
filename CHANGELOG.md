@@ -16,3 +16,6 @@
 
 # v0.4.0
 * Add github pages deployment workflow
+
+# v1.0.0
+* Configure Social Stack

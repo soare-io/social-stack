@@ -1,54 +1,18 @@
-owner-name: Joe Mama
+owner-name: Mihai-Alexandru Soare
 profile-picture: /profile.webp
 meta-description: > 
-    A very hard-working and driven fellow with
-    a presence on multiple social platforms.
-bio: joemama@example.com
+  I am an enthusiastic programmer and student, always eager
+  to take on new challenges and expand my technical expertise.
+bio: mihai@soare.io
 links:
   - name: LinkedIn
-    url: https://linkedin.com/
+    url: https://linkedin.com/in/m-a-soare
     icon: /linkedin.svg
 
   - name: GitHub
-    url: https://github.com/
+    url: https://github.com/atomicul
     icon: /github.svg
 
   - name: Revolut
-    url: https://revolut.com/
+    url: https://revolut.me/mihaiayxij
     icon: /revolut.svg
-
-  - name: PayPal
-    url: https://paypal.com/
-    icon: /paypal.svg
-
-  - name: Discord
-    url: https://discord.com/
-    icon: /discord.svg
-
-  - name: Snapchat
-    url: https://snapchat.com/
-    icon: /snapchat.svg
-
-  - name: TikTok
-    url: https://tiktok.com/
-    icon: /tiktok.svg
-
-  - name: YouTube
-    url: https://youtube.com/
-    icon: /youtube.svg
-
-  - name: Facebook
-    url: https://facebook.com/
-    icon: /facebook.svg
-
-  - name: Instagram
-    url: https://instagram.com/
-    icon: /instagram.svg
-
-  - name: Steam
-    url: https://steamcommunity.com/
-    icon: /steam.svg
-
-  - name: X
-    url: https://x.com/
-    icon: /x.svg
