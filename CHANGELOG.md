@@ -22,3 +22,6 @@
 
 # v1.0.1
 * Fix repo settings preventing github pages deploy
+
+# v1.0.2
+* Update README
