@@ -25,3 +25,6 @@
 
 # v1.0.2
 * Update README
+
+# v69.0.0 
+ * Configure Social Stack
