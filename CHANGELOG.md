@@ -19,3 +19,6 @@
 
 # v1.0.0
 * Configure Social Stack
+
+# v1.0.1
+* Fix repo settings preventing github pages deploy
