@@ -28,3 +28,6 @@
 
 # v69.0.0 
  * Configure Social Stack
+
+# v69.1.0
+ * Add link to paypal
