@@ -31,3 +31,6 @@
 
 # v69.1.0
  * Add link to paypal
+
+# v69.2.0
+ * Remove link to paypal
